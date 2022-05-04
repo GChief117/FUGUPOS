@@ -3,3 +3,7 @@ This is a Web 3.0 Project for AI Molecular Modeling and 3D interfacing using Unr
 
 ![1](FUGUPOS.PNG)
 ![2](Protein_Interaction.PNG)
+
+
+Demo can be accessed here
+Requirements include Windows 10, Decent GPU, and Storage to run locally: https://www.kaggle.com/datasets/gchief117/fugupos-dataarchivedemo
